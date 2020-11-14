@@ -1,0 +1,19 @@
+{
+  "name": "eve-maps-utility",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "csv-reader": "^1.0.7",
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.6.3",
+    "throttled-queue": "^1.0.7"
+  }
+}
